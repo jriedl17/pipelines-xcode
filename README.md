@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/IF140024/sample-xCode/_apis/build/status/jriedl17.pipelines-xcode)](https://dev.azure.com/IF140024/sample-xCode/_build/latest?definitionId=1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
